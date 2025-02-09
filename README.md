@@ -97,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 - **Author:** Rohith Selvan
 - **GitHub:** [Rohithselvan](https://github.com/Rohithselvan)
-- **Email:** (Add your email here if you want to be contacted)
+- **Email:** rohithselvan10@gmail.com
 
 ## ⭐ Acknowledgements
 Special thanks to:
