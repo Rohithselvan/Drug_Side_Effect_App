@@ -16,7 +16,6 @@ The **Drug Side Effect Prediction System** is a machine learning-powered **Expo 
 
 ## 🏗️ Technologies Used
 - **Frontend:** React Native (Expo)
-- **Backend:** Node.js (if applicable)
 - **Machine Learning:** Python (GNN-based model)
 - **Libraries:** React Navigation, Expo Asset, Async Storage, Axios (if applicable)
 - **Version Control:** Git & GitHub
